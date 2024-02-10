@@ -1,0 +1,290 @@
+/* ---------------------------------nav1-------------------------------- */
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.brac{
+    text-decoration: none;
+}
+
+.bg{
+    background-color: #27202F;
+}
+/* ---------------------------------nav1-------------------------------- */
+
+
+/* ---------------------------------nav2-------------------------------- */
+.nav2{
+    margin-right: 12px;
+    margin-left: 12px;
+    text-decoration: none;
+    color: white;
+}
+
+
+.portfolio{
+    color: crimson;
+}
+/* ---------------------------------nav2-------------------------------- */
+
+
+/* ---------------------------------first section-------------------------------- */
+
+
+.section1{
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+.fardinimg{
+    width: 15%;
+    margin-top: 250px;
+}
+
+.frst{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 100px;
+    color: #9ca3af;
+}
+
+.frst1{
+    font-size: 60px;
+    font-weight: bolder;
+    color: #9ca3af;
+    font-family: Verdana, Geneva, Tahoma, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.frst2{
+    font-weight: bolder;
+    font-size: large;
+    color: #9ca3af;
+}
+
+.frst3{
+    border: 0;
+    background-color: red;
+    width: 110px;
+    height: 45px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.frst1, .frst2 {
+    margin: 10px;
+    padding: 0;
+}
+/* ---------------------------------first section-------------------------------- */
+
+/* ---------------------------------About Me-------------------------------- */
+
+
+.frst4{
+    color: #9ca3af;
+    font-size: larger;
+}
+
+.frst5{
+    color: #9ca3af;
+    font-size: 50px;
+}
+.frst555{
+    color: red;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.frst55{
+    color: #9ca3af;
+    font-weight: bold;
+}
+.aboutme{
+    display: flex;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.aboutme1{
+    margin: 0;
+    padding: 0;
+    gap: 0;
+}
+
+.frst6{
+    background-color: #A9122A;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px
+}
+.f1{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.frst7{
+    height: 500px;
+}
+
+.frst8{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+/* ---------------------------------About Me-------------------------------- */
+
+
+.hobby1{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 50px;
+
+}
+
+
+.hobby {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+    margin-left: 150px;
+  }
+
+
+.one{
+    display: flex;
+    gap: 20px;
+}
+
+
+.par{
+    font-size: 30px;
+}
+
+/* ---------------------------------About Me-------------------------------- */
+
+
+/* ---------------------------------------------Educational Qualificatione------------------------------ */
+
+
+.edu{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 200px;
+    font-size: xx-large;
+    margin-bottom: 0%;
+
+
+}
+
+.brac{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.table-container {
+    margin: 90px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+
+    height: 300px;
+}
+
+th, td {
+    border: 5px solid white;
+    padding: 8px;
+    text-align: center;
+    color: white;
+}
+
+th {
+    background-color: #27202F;
+}
+
+
+/* --------------------------------------------Educational Qualificatione----------------------------------- */
+
+/* ----------------------------------------favourit quote---------------------------------- */
+
+.q11{
+    font-size: 50px;
+    color: red;
+    margin-left: 70px;
+    margin-top: 20px;
+
+}
+
+
+.q2{
+    border: 5px solid white;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+
+}
+
+
+.q1{
+    display: flex;
+    margin: auto;
+    width: 90%;
+    margin-bottom: 50px;
+}
+
+
+
+/* CSS for grid container */
+/* CSS for grid container */
+.q3{
+    display: flex;
+}
+
+.q33{
+    display: flex;
+    height: 80px;
+}
+  
+  
+/* ----------------------------------------favourit quote---------------------------------- */
+
+
+/* --------------------------------------------Footer----------------------------------- */
+
+.line {
+    width: 80%;
+    height: 5px; 
+    background-color: yellowgreen; 
+    margin: 5px;
+    margin-bottom: 90px;
+    margin: auto;
+  }
+  
+.foot{
+    margin-top: 60px;
+}
+  .foot1{
+    color: white;
+    
+  }
+
+  .foot2{
+    display: flex;
+    justify-content: center;
+  }
+
+  .foot3{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    margin-left: 50px;
+  }
+/* --------------------------------------------Footer----------------------------------- */
