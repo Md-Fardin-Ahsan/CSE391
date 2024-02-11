@@ -213,6 +213,41 @@ th {
 
 /* --------------------------------------------Educational Qualificatione----------------------------------- */
 
+
+
+
+
+/* --------------------------------------------Skill----------------------------------- */
+
+
+.s0{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    gap: 50px;
+}
+.s{
+    font-size: xx-large;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.s1{
+    display: flex;
+    gap: 50px;
+}
+
+.s2{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+/* --------------------------------------------Skill----------------------------------- */
+
 /* ----------------------------------------favourit quote---------------------------------- */
 
 .q11{
@@ -288,3 +323,26 @@ th {
     margin-left: 50px;
   }
 /* --------------------------------------------Footer----------------------------------- */
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 50px auto;
+    color: azure;
+    margin-top: 100px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #pageInfo {
+    margin-top: 20px;
+  }
+  
